@@ -1,0 +1,10 @@
+sonar.projectKey=yea:imeta-web
+sonar.projectName=imeta-web
+sonar.projectVersion=1.0
+
+sonar.sources=.
+sonar.exclusions=test/**, node_modules/**, src/assets/**, public/build/**
+sonar.login=2b9d585d555d32c0fc7b24c9ac6c2c222e58bd21
+
+# Encoding of the source code. Default is default system encoding
+#sonar.sourceEncoding=UTF-8
